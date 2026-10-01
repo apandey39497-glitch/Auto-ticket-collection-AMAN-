@@ -25,8 +25,9 @@ User/device information
 Previous ticket patterns or classification rules
 The system then automatically determines the appropriate classification.
 ## Project screenshort
+Flow design
 <img width="1917" height="952" alt="Auto ticket collection (Aman)" src="https://github.com/user-attachments/assets/e0bf0be6-f802-4d94-994b-16f63cfae726" />
-
+Complite Test
 <img width="1871" height="877" alt="Auto ticket classification (Aman)" src="https://github.com/user-attachments/assets/2c1f9b31-001d-4f9a-86f6-f15ab4ccd272" />
 
 3. Example
