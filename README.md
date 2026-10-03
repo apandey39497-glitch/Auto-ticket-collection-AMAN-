@@ -30,8 +30,10 @@ Flow design
 Complite Test
 <img width="1871" height="877" alt="Auto ticket classification (Aman)" src="https://github.com/user-attachments/assets/2c1f9b31-001d-4f9a-86f6-f15ab4ccd272" />
 
+Project Demo
+Watch the Auto Ticket Classification Project Demo
+https://drive.google.com/file/d/1_Isu4xQWrSQA6HTLMjxRp0svMav_Kl9_/view?usp=drivesdk
 3. Example
-
 Suppose a user creates:
 
 Short Description: “My laptop cannot connect to Wi-Fi.”
@@ -100,7 +102,12 @@ Priority / Assignment Group
 Correct Support Team
   ↓
 Ticket Resolution
-8. Example for Your Project
+
+Team Lead-Aman Kumar Pandey
+
+GitHub Repository
+Repository: apandey39497\Autoticketcollectionaman
+9. Example for Your Project
 
 You can explain your project like this during a presentation:
 
